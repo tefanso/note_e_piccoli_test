@@ -1,7 +1,7 @@
 print('''
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 +     Benvenuto nella calcolatrice creata da     +
-+                  -Tefanso97-                   +
++                   -Tefanso-                    +
 + Scegli un dei numeri associati all'operazione. +
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 +                                                +
